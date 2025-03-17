@@ -58,3 +58,6 @@ NST has many real-world applications in various domains, including:
 🔹 Game Development: Enhances textures and graphics by applying artistic effects.
 🔹 Marketing & Advertising: Used to create visually appealing graphics for branding.
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/9056911c-f12a-4f35-afdb-ac052d6ee35d)

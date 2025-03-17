@@ -13,9 +13,8 @@ DURATION : 12 WEEKS
 MENTOR : NEELA SANTOSH
 
 DESCRIPTION:  
-
-    Neural Style Transfer (NST) is an innovative deep learning technique that allows users to transform images by applying the artistic style of one image to another. This technique is widely used in digital art, photography, and creative applications, making it possible to create visually appealing artwork using artificial intelligence.
-
+      Neural Style Transfer is a fascinating application of deep learning that bridges the gap between AI and creativity. This Python project successfully implements NST using pretrained CNNs, allowing users to apply artistic styles to images. The project leverages Google, ChatGPT, YouTube tutorials, and research papers to achieve high-quality results.
+    
 Working of Neural Style Transfer
 NST uses deep learning models to extract and manipulate content features from one image and style features from another:
 
